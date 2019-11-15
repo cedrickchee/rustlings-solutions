@@ -2,7 +2,7 @@
 // Make me compile without changing line 10!
 // Execute `rustlings hint move_semantics2` for hints :)
 
-// I AM NOT DONE
+// `I AM NOT DONE`
 
 /// Make `fill_vec` borrow its argument instead of taking ownership of it,
 /// and then copy the data within the function in order to return an owned
